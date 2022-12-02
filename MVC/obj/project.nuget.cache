@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORHYor2jImFPwLMt1Ui29JHkeOC1M1HNWsYE4KDT5/5nZRNzyjtGV1BaSYgdZfysALyboCqSlkTiw0xPSPb4MA==",
+  "dgSpecHash": "zb/4S836oRtrwdTKx4dZ5hE8SzUiOhonyuj2/5JZIZcOZI8QhZkLIBuOngs+zWmXpAO70BaFNANAHyF34wa5Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\ApkRazerMovies\\MVC\\MVC.csproj",
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Documents\\github repositories\\MVCMovies\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
